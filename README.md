@@ -11,4 +11,23 @@ For this project, I used the musicgen-medium version, which is a mid-sized model
 
 Everyone is welcome to download and use it, along with sample usage code available on this GitHub repository.
 
+Minimum Requirements (Inference Only):
+
+GPU: NVIDIA GPU with at least 12 GB VRAM (e.g., RTX 3060 or better)
+
+RAM: 16 GB system memory
+
+Disk Space: 10 GB free (for model + dependencies)
+
+Python: 3.9–3.11
+
+OS: Linux / Windows / macOS with CUDA support (for GPU acceleration)
+
+Recommended Requirements (for Faster Generation or Training):
+
+GPU: NVIDIA RTX 3090 / A100 or equivalent (24 GB+ VRAM)
+
+RAM: 32 GB or more
+
+Storage: SSD recommended (especially for audio data access)
 
