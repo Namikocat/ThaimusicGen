@@ -31,5 +31,10 @@ RAM: 32 GB or more
 
 Storage: SSD recommended (especially for audio data access)
 
-คุณสามารถโลหดโมเดลได้จาก 
+คุณสามารถโลหดโมเดลได้จาก (old)
 https://drive.google.com/file/d/1br4h225bHqYyKR-yHlHqkZUJwYnktcgc/view?usp=sharing
+คุณสามารถโลหดโมเดลได้จาก (lastest)
+
+
+Aplication for window
+Coming soon..
