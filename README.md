@@ -35,6 +35,9 @@ Storage: SSD recommended (especially for audio data access)
 https://drive.google.com/file/d/1br4h225bHqYyKR-yHlHqkZUJwYnktcgc/view?usp=sharing
 คุณสามารถโลหดโมเดลได้จาก (lastest)
 
+https://1drv.ms/u/c/019fc831ce02e01c/EZ-i4Q0iOfBDmcLP0kwOUIUBXBW9kkYCyJresiGI7EFSDw?e=rbeVxt
+
+
 
 Aplication for window
 Coming soon..
