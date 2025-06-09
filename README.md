@@ -40,4 +40,4 @@ https://1drv.ms/u/c/019fc831ce02e01c/EZ-i4Q0iOfBDmcLP0kwOUIUBXBW9kkYCyJresiGI7EF
 
 
 Aplication for window
-Coming soon..
+https://1drv.ms/u/c/019fc831ce02e01c/EWJgr1VRf09FsU1BorWQA6ABjfuX1-FpGh4Kf4SQFRfEPg?e=eSb7bd)
